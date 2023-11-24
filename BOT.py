@@ -113,4 +113,4 @@ delta_t=y-x
 secs=delta_t.seconds+1
 t = Timer(secs, UPDATE_QOTD)
 t.start()
-bot.run("MTE3MDk2MzMzMzY1OTI1MDczOQ.GSf_dc.nV4V1NvwF01niL8O2DMBOUzBYdF2SEP_0gNmqQ")
+bot.run("key")
